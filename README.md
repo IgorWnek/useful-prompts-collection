@@ -14,6 +14,10 @@ git clone https://github.com/igorwnek/useful-prompts-collection.git
 
 To use the prompts, follow the instructions provided in each prompt's description.
 
+## Prompts Categories (Contexts)
+
+- [Moderation](./prompts/moderation/moderation.md)
+
 ## Contributing
 
 Pull requests with more prompts are welcome. However, please open an issue first to discuss the details, potential usage context (category), and the source.
