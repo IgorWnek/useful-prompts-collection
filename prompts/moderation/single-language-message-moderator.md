@@ -35,6 +35,8 @@ pass|block
 
 ### Anthropic Console
 
+Link to the console workbench: [https://console.anthropic.com/workbench](https://console.anthropic.com/workbench)
+
 #### Model `claude-3-5-haiku-20241022 (latest)`
 
 Example user prompt:
